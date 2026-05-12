@@ -230,6 +230,7 @@ python-magic
 python-multipart
 python-oxmsg
 pytz
+pdm
 pywin32
 pywinpty
 PyYAML
